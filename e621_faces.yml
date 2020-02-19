@@ -1,0 +1,9 @@
+name: e621_faces
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - pip
+  - pip:
+    - opencv-python
+    - wget
