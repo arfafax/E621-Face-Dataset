@@ -1,0 +1,7 @@
+classes= 1
+train  = data/train-furry-faces.txt
+valid  = data/valid.txt
+#difficult = data/difficult_2007_test.txt
+names = data/furry-faces.names
+backup = backup-furry-faces/
+

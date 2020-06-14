@@ -1,0 +1,7 @@
+classes= 3
+train  = data/train-comb.txt
+valid  = data/valid.txt
+#difficult = data/difficult_2007_test.txt
+names = data/obj.names
+backup = backup-obj2/
+
